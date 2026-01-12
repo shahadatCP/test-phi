@@ -1,0 +1,126 @@
+.banner{
+  width: 600px;
+  height: 300px;
+  color: white;
+  border: 1px solid red;
+  margin: auto;
+  background-image: url('image/bg.avif'),linear-gradient(45deg, red,blue);
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+
+
+
+/* .line-1{
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+}
+.line-2{
+  width: 300px;
+  height: 200px;
+  border: 1px solid blue;
+}
+.line-3{
+  width: 300px;
+  height: 200px;
+  border: 1px solid green;
+}
+.line-4{
+  width: 300px;
+  height: 200px;
+  border: 1px solid red;
+}
+.line-container{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  flex-wrap: wrap;
+  height: 100vh;
+  border: 1px solid goldenrod;
+  align-items: center;
+} */
+
+
+/* -- desplay property and color hex and rgba
+.title {
+  display: inline;
+} */
+
+/*.description {
+  color: goldenrod;
+  font-size: 50px;
+  font-weight: bold;
+  /* font-style: italic; 
+  text-align: center;
+  width: 50%;
+  margin: auto;
+
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.box-all {
+  width: 250px;
+  height: 250px;
+  margin-top: 10px;
+  margin-left: 10px;
+}*/
+/* 
+.box1 {
+  border: solid black;
+}
+.box2 {
+  border: solid rgb(211, 12, 12);
+}
+.box3 {
+  border: solid rgb(23, 8, 239);
+}
+.red {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: red;
+  position: absolute;
+  margin: 90px;
+} */
+
+/* box model
+.box{
+    width: 200px;
+    border: 2px solid gray;
+    text-align: center;
+    padding: 50px;
+    margin: 50px, 100px;
+}
+
+.title{
+    color: blue;
+    margin-top: 60px;
+    margin-left: 100px;
+} */
+
+/* The things which start with a (.) dot called class tag in css
+.title1{
+    color:red;
+    font-size: 30px;
+    font-style: italic;
+}
+.title2{
+    color: blue;
+    font-size: 50px;
+    
+}
+ The things which start with a (#) hash called id tag in css 
+#desc{
+    color: blueviolet;
+    font: 20px;
+    
+} */

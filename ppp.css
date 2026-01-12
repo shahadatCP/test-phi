@@ -1,0 +1,117 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* background-color: gray; */
+  padding: 10px;
+}
+.logoo{
+  width: 80px;
+}
+li{
+  list-style: none;
+  font-size: 20px;
+}
+li:hover{
+  color: blue;
+  cursor: pointer;
+}
+.menu-c{
+  display: flex;
+  gap: 25px;
+}
+.banner-imge{
+  width: 410px;
+}
+.banner-cont{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+}
+.banner-left{
+  width: auto;
+}
+.banner-right{
+  width: auto;
+}
+.btn{
+  padding: 10px 15px;
+  border: none;
+  color: black;
+  background-color: rgb(229, 146, 11);
+  border-radius: 7px;
+  cursor: pointer;
+}
+h3{
+  color: rgb(207, 20, 20)
+}
+.title{
+  font-size: 45px;
+}
+.title2{
+  font-size: 24px;
+}
+
+
+.service-container {
+  margin-top: 50px;
+}
+.service-title {
+  margin-top: 30px;
+  font-size: 50px;
+  text-align: center;
+}
+.service-card {
+  width: 900px;
+  height: 700px;
+  border: 1px solid black;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  font-size: 35px;
+  margin: auto;
+}
+.service-img {
+  width: 250px;
+  height: 220px;
+  margin: auto;
+}
+
+.service-description {
+  margin: auto;
+}
+.services {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.pic-cont{
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin: 20px;
+ 
+}
+.llll{
+  height: 90vh;
+  background: url("Image/Div\ [banner].png") center/cover no-repeat;
+  position: relative;
+}
+/* 
+header{
+  background-image: url("Image/Div\ [banner].png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: inherit;
+  width: 100%;
+  height: 750px;
+  padding-top: 50px
+  
+} */
